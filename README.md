@@ -5,7 +5,7 @@ I'm a Computer Science student at BINUS University who enjoys building software 
 ### 👨‍💻 I'm...
 
 - 🎓 A CS undergraduate at **BINUS University** (GPA 3.97)
-- 🧪 A **Part-Time Laboratory Assistant**, teaching 100–120 students per semester in Python, Java, C/C++, data structures, and web development
+- 🧪 A **Part-Time Laboratory Assistant**, teaching 100–120 students per semester in various subjects
 - 🔭 Currently going deeper into **machine learning and computer vision**
 - 🤝 Open to **Full-Stack Developer or ML internships**
 
